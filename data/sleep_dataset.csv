@@ -1,0 +1,6 @@
+ID,prev_sleep_hours,active_minutes,awake_since_hours,comfortable_sleep_available,mental_status,physical_status,activity,visual_stimulation,audibly_stimulation,posture
+1,8,60,15,1,0,-1,1,1,2,1
+999,6,120,12,1,0,0,1,2,0,-1
+882,9,100,10,1,0,-1,0,1,0,0
+92,9,30,4,1,0,1,1,2,2,0
+79,8,120,8,1,0,0,1,1,0,0
